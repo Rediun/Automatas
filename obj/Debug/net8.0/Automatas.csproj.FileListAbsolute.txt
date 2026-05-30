@@ -20,3 +20,4 @@ C:\Users\jjuli\Documents\C#\automatas\Automatas\bin\Debug\net8.0\NAudio.Wasapi.d
 C:\Users\jjuli\Documents\C#\automatas\Automatas\bin\Debug\net8.0\NAudio.WinMM.dll
 C:\Users\jjuli\Documents\C#\automatas\Automatas\obj\Debug\net8.0\Automatas.csproj.AssemblyReference.cache
 C:\Users\jjuli\Documents\C#\automatas\Automatas\obj\Debug\net8.0\Automatas.csproj.Up2Date
+C:\Users\jjuli\Documents\C#\automatas\Automatas\obj\Debug\net8.0\Automatas.sourcelink.json

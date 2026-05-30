@@ -364,11 +364,11 @@ public class Historia
     public static void LanzarJumpscare()
     {
     var waveOut = new WaveOutEvent();
-    var audioFile = new AudioFileReader("C:\\Users\\jjuli\\Documents\\C#\\automatas\\Automatas\\mmdas\\iphone_ringtone_trap_remixbigconverter.mp3");
+    var audioFile = new AudioFileReader("..\\mmdas\\iphone_ringtone_trap_remixbigconverter.mp3");
     waveOut.Init(audioFile);
     waveOut.Play();
 
-    ProcessStartInfo pInfo = new ProcessStartInfo("C:\\Users\\jjuli\\Documents\\C#\\automatas\\Automatas\\mmdas\\Answer it.jpg");
+    ProcessStartInfo pInfo = new ProcessStartInfo(".\\mmdas\\Answer it.jpg");
     pInfo.UseShellExecute = true;
     Process.Start(pInfo);
     }
